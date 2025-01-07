@@ -60,8 +60,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <body>
         <h1>About Me</h1>
        
-            <p>Hey, this is me!</p>
-            <p>Major of <span class="highlight">Computer Science</span> at KLE TECH!</p>
+            <h2>Hey, this is me!</h2>
+            <h2>Major of <span class="highlight">Computer Science</span> at KLE TECH!</h2>
             </body>
 </html>
 
