@@ -60,7 +60,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <body>
         <h1>About Me</h1>
              
-        </html>
+      
 
 <!DOCTYPE html>
 <html lang="en">
@@ -73,5 +73,5 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <body>
     <h1>I am the major of COMPUTER SCIENCE!!!</h1>
 </body>
-</html>
+</head><HTML>
 
