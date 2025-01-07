@@ -59,9 +59,19 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <html>
 <body>
         <h1>About Me</h1>
-       
-            
-            </body>
-</html>
+             
+        </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+   
+</head>
+<body>
+    <h1>I am the major of COMPUTER SCIENCE!!!</h1>
+</body>
+</html>
 
