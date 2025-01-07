@@ -18,7 +18,7 @@
 
 <body>
     <div class="container">
-        <img src="https://github.com/28092005/DAA-team-11_sourav/pull/1" alt="E-commerce Inventory Management">
+        <img src="" alt="E-commerce Inventory Management">
         <div class="description">
             <h2>E-commerce Inventory Management System</h2>
             <p>An E-commerce Inventory Management System includes four key modules: <strong>Product</strong> (tracks product details), <strong>Stock</strong> (monitors inventory levels), <strong>Order</strong> (manages order processing), and <strong>Report & Analytics</strong> (provides sales and stock insights). These modules work together to optimize stock levels, streamline operations, and improve decision-making. It ensures accurate inventory tracking and timely order fulfillment.</p>
