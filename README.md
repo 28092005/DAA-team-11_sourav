@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -38,6 +38,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dl>
 <dt>Course Name:DAA LAB</dt>
 <dd>Data Structure And Algorithmic </dd>
+ <dd>The project consists of DATASTRCUTURE:- *VECTORS,*SET,*MAPS,*QUEUES,*ARRAY,*TREES,*UNORDERED SET.</dd>  
+    <dd>ALGORITHMS:- *SEARCHING,*SORTING,*STRING MANIPULATION,*STRING MATCHING,*REPORT FORECASTING</dd>
 <dt>Course Code:24ECSP206</dt>
 <dd>Course Code Placeholder</dd>
 <dt>Name</dt>
