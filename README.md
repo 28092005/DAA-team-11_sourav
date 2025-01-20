@@ -64,7 +64,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
              
       
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
